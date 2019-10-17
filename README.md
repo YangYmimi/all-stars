@@ -2,6 +2,22 @@
 
 Collect hot dependencies
 
+### 数据可视化
+
+* [echarts](https://echarts.apache.org/zh/index.html)
+
+* [antv](https://antv.alipay.com/zh-cn/index.html) : ali 出产的数据可视化库
+
+#### 基于 react
+
+* [alibaba - BizCharts](https://bizcharts.net/products/bizCharts) : 基于 G2 封装的 React 图表库，具有 G2、React 的全部优点
+
+* [alibaba - BizGoblin](https://bizcharts.net/products/bizGoblin) : 移动端商业统计图表解决方案，基于F2封装的React图表库，具有F2、React的全部优点，可以让用户以组件的形式组合出无数种移动端图表
+
+#### 基于 vue
+
+* [v-charts](https://github.com/ElemeFE/v-charts) : 基于 Vue2.0 和 ECharts 封装的图表组件
+
 ### 网络请求库
 
 * [Fetch API](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API)
