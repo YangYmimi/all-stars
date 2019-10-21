@@ -2,6 +2,10 @@
 
 Collect hot dependencies
 
+### mobile
+
+* [Hammer.js](https://hammerjs.github.io/getting-started/) : Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small
+
 ### 数据可视化
 
 * [echarts](https://echarts.apache.org/zh/index.html)
