@@ -18,9 +18,15 @@ Collect hot dependencies
 
 * [alibaba - BizGoblin](https://bizcharts.net/products/bizGoblin) : 移动端商业统计图表解决方案，基于F2封装的React图表库，具有F2、React的全部优点，可以让用户以组件的形式组合出无数种移动端图表
 
+* [react-dnd](https://github.com/react-dnd/react-dnd) : 基于 react 的拖拽组件
+
+* [Next.js](https://nextjs.org/docs) : 基于 React 服务端渲染应用框架
+
 #### 基于 vue
 
 * [v-charts](https://github.com/ElemeFE/v-charts) : 基于 Vue2.0 和 ECharts 封装的图表组件
+
+* [Nuxt.js](https://github.com/nuxt/nuxtjs.org) : 基于 Vue.js 的服务端渲染应用框架
 
 ### 网络请求库
 
@@ -32,3 +38,6 @@ Collect hot dependencies
 
 * [umi-request](https://github.com/umijs/umi-request/blob/master/src/request.js) : 基于 fetch 封装, 兼具 fetch 与 axios 的特点, 旨在为开发者提供一个统一的api调用方式, 简化使用, 并提供诸如缓存, 超时, 字符编码处理, 错误处理等常用功能.
 
+### 辅助库
+
+* [driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page. 引导库.
