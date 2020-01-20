@@ -1,7 +1,5 @@
 # Dependencies
 
-Collect hot dependencies
-
 ### mobile
 
 * [Hammer.js](https://hammerjs.github.io/getting-started/) : Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small
@@ -41,3 +39,7 @@ Collect hot dependencies
 ### 辅助库
 
 * [driver.js](https://github.com/kamranahmedse/driver.js) : A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page. 引导库.
+
+* [lodash](https://github.com/lodash/lodash) : 函数式编程
+
+* [moment](https://github.com/moment/moment) : Parse, validate, manipulate, and display dates in JavaScript.
