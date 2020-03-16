@@ -26,6 +26,8 @@
 
 * [Nuxt.js](https://github.com/nuxt/nuxtjs.org) : 基于 Vue.js 的服务端渲染应用框架
 
+* [cube-ui](https://github.com/didi/cube-ui) : 基于 Vue.js 的移动端组件库
+
 ### 网络请求库
 
 * [Fetch API](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API)
