@@ -1,6 +1,6 @@
-# Dependencies
+# Packages
 
-### mobile
+### 移动端
 
 * [Hammer.js](https://hammerjs.github.io/getting-started/) : Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small
 
@@ -19,6 +19,8 @@
 * [react-dnd](https://github.com/react-dnd/react-dnd) : 基于 react 的拖拽组件
 
 * [Next.js](https://nextjs.org/docs) : 基于 React 服务端渲染应用框架
+
+* [ZEIT - UI](https://react.zeit-ui.co/zh-cn/getting-started/introduction) : 一个开源的 react 组件，非官方组织，可以用来学习搭建属于自己的组件库
 
 #### 基于 vue
 
