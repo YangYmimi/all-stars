@@ -60,6 +60,14 @@
 
 * [draft-js](https://github.com/facebook/draft-js) : A React framework for building text editors.
 
+* [formily](https://github.com/alibaba/formily) : 基于 react 的中后台表单解决方案
+
+* [mobx](https://github.com/mobxjs/mobx) : Simple, scalable state management.
+
+* [Recoil](https://github.com/facebookexperimental/Recoil) : react 状态管理
+
+* [hox](https://github.com/umijs/hox) : https://github.com/umijs/hox/blob/master/README-cn.md
+
 ### 基于 vue 
 
 * [v-charts](https://github.com/ElemeFE/v-charts) : 基于 Vue2.0 和 ECharts 封装的图表组件，已经很近不维护了，所以只当作组件封装参考
@@ -141,6 +149,8 @@
 * [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) : Client-side HTML-to-PDF rendering using pure JS.
 
 * [jsPDF](https://github.com/MrRio/jsPDF) : Client-side JavaScript PDF generation for everyone.
+
+* [pdf.js](https://github.com/mozilla/pdf.js) : A Portable Document Format (PDF) viewer that is built with HTML5.
 
 ### 其他
 
