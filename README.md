@@ -6,6 +6,10 @@
 
 * [css-grid-polyfill](https://github.com/FremyCompany/css-grid-polyfill) : A working implementation of css grids for current browsers.
 
+* [animate.css](https://github.com/animate-css/animate.css)
+
+* [scenejs](https://github.com/daybrush/scenejs) : Scene.js is JavaScript & CSS timeline-based animation library
+
 ### 移动端
 
 * [Hammer.js](https://github.com/hammerjs/hammer.js) : Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small
@@ -67,6 +71,8 @@
 * [Recoil](https://github.com/facebookexperimental/Recoil) : react 状态管理
 
 * [hox](https://github.com/umijs/hox) : https://github.com/umijs/hox/blob/master/README-cn.md
+
+* [ant-motion](https://github.com/ant-design/ant-motion) : Animation specification and components of Ant Design.
 
 ### 基于 vue 
 
@@ -151,6 +157,8 @@
 * [jsPDF](https://github.com/MrRio/jsPDF) : Client-side JavaScript PDF generation for everyone.
 
 * [pdf.js](https://github.com/mozilla/pdf.js) : A Portable Document Format (PDF) viewer that is built with HTML5.
+
+* [element-resize-detector](https://github.com/wnr/element-resize-detector) : Optimized cross-browser resize listener for elements.
 
 ### 其他
 
