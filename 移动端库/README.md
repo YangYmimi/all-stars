@@ -1,0 +1,1 @@
+* [Hammer.js](https://github.com/hammerjs/hammer.js) : A JavaScript library for detecting touch gestures.
