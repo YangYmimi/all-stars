@@ -24,8 +24,9 @@
 * [react-loadable](https://github.com/jamiebuilds/react-loadable) : A higher order component for loading components with promises.
 
 * [formily](https://github.com/alibaba/formily) : 基于 react 的中后台表单解决方案
-* [amis](https://github.com/baidu/amis) : 前端低代码框架，通过 JSON 配置就能生成各种后台页面。
 * [H5-Dooring](https://github.com/MrXujiang/h5-Dooring) : H5可视化页面配置解决方案
+* [amis](https://github.com/baidu/amis) : 前端低代码框架，通过 JSON 配置就能生成各种后台页面。
+* [form-render](https://github.com/alibaba/form-render)
 
 #### 基于 React 的组件库
 
